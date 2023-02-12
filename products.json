@@ -1,0 +1,38 @@
+[
+  {
+    "image": "img/rog3060.png",
+    "title": "ROG Nvidia rtx 3060",
+    "description": "Ottima scheda grafica per il gaming",
+    "price": "650"
+  },
+  {
+    "image": "img/z690.png",
+    "title": "ROG MAXIMUS Z690",
+    "description": "Ottima scheda madre per il gaming",
+    "price": "1.280"
+  },
+  {
+    "image": "img/ssd.png",
+    "title": "SAMSUNG SSD NVME 980 1TB",
+    "description": "SSD NVME con ottime prestazioni in lettura e scrittura da 1TB",
+    "price": "95"
+  },
+  {
+    "image": "img/alimentatore.png",
+    "title": "Corsair HX1200",
+    "description": "Alimentatore corsair 1200w con certificazione 80 plus platinum",
+    "price": "300"
+  },
+  {
+    "image": "img/ram.png",
+    "title": "Kingstone Fury DDR5 4800Mhz",
+    "description": "2x8Gb ram Kingstone Fury DDR5 4800Mhz",
+    "price": "140"
+  },
+  {
+    "image": "img/case.png",
+    "title": "ROG STRIX Helios",
+    "description": "Case E-atx Asus ROG STRIX Helios",
+    "price": "359"
+  }
+]
